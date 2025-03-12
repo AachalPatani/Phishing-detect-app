@@ -24,6 +24,7 @@ Android SDK
 Google Safe Browsing API (for URL checking)
 Custom Spam Detection API (for message spam analysis)
 Notifications (Toast & Push Notifications)
+
 🚀 How to Run
 Clone this repository:
 bash
